@@ -25,4 +25,3 @@ protected:
 };
 
 #endif /* STATE_H */
-© 2020 GitHub, Inc.
