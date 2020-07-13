@@ -10,7 +10,7 @@ This project helps me to understand how unused memory is dynamically freed while
 
 > make
 
-> ./marksweep
+> ./sweepy
 
 ## How It Works
 

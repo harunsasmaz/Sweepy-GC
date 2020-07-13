@@ -16,4 +16,4 @@ endif()
 
 include_directories(.)
 aux_source_directory(. SOURCES)
-add_executable(marksweep ${SOURCES})
+add_executable(sweepy ${SOURCES})
