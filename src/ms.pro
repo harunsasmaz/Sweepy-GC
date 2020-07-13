@@ -7,7 +7,7 @@
 CXXFLAGS += -std=c++14
 
 # Specify target name
-TARGET = marksweep 
+TARGET = sweepy 
 
 # Specify the #include directories which should be searched when compiling the project.
 INCLUDEPATH = .
