@@ -7,7 +7,9 @@ This project helps me to understand how unused memory is dynamically freed while
 ## Compile and Run
 
 > cmake src/
+
 > make
+
 > ./marksweep
 
 ## How It Works
